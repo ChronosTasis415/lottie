@@ -21,6 +21,7 @@ export default class LottieWeb extends Vue {
         loop: true,
         autoplay: false,
         animationData: lottieJson
+        // path: '/lottie.json'
       });
     }
     this.lottier!.play();
