@@ -1,8 +1,18 @@
-# ts-template
+# lottie-web && lottie-player
 
 ## Project setup
 ```
 npm install
+```
+
+## lottie-web
+```
+npm install lottie-web
+```
+
+## lottie-player
+```
+npm install @lottiefiles/lottie-player
 ```
 
 ### Compiles and hot-reloads for development

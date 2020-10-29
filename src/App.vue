@@ -1,21 +1,6 @@
 <template>
   <div id="app">
-    <div class="icon">
-      <div class="label">ICON size: 20</div>
-      <svg v-svg symbol="close" size="20"></svg>
-    </div>
-    <div class="icon">
-      <div class="label">ICON size: 30</div>
-      <svg v-svg symbol="close" size="30"></svg>
-    </div>
-    <div class="icon">
-      <div class="label">ICON size: 40</div>
-      <svg v-svg symbol="close" size="40"></svg>
-    </div>
-    <div class="icon">
-      <div class="label">ICON size: 50</div>
-      <svg v-svg symbol="close" size="50"></svg>
-    </div>
+    <hello-world></hello-world>
   </div>
 </template>
 
